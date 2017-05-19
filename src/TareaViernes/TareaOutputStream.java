@@ -23,8 +23,6 @@ public class TareaOutputStream {
         ia.start();
         Thread persona = new Thread(new Persona());
         persona.start();
-        
-       
     }
 }
 
