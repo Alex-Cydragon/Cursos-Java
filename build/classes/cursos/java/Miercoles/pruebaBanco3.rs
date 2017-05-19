@@ -1,0 +1,10 @@
+cursos.java.Miercoles.banHsbc
+cursos.java.Miercoles.Banco3
+cursos.java.Miercoles.pruebaBanco
+cursos.java.Miercoles.banComer3
+cursos.java.Miercoles.pruebaBanco3
+cursos.java.Miercoles.banCoppel
+cursos.java.Miercoles.banCoppel3
+cursos.java.Miercoles.banHsbc3
+cursos.java.Miercoles.banComer
+cursos.java.Miercoles.Banco
